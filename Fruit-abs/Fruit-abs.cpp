@@ -27,7 +27,7 @@ class Apple : public Fruit
 {
 public:
 	string name(){
-		return "This is a Apple";
+		return "This is  Apple";
 
 	}
 
